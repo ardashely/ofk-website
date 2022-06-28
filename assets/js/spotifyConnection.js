@@ -1,6 +1,6 @@
 
 var settings = {
-    "url": "http://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user=ofkxd&limit=1&nowplaying=\"true\"&format=json&api_key=8ff17351467fb2836caa546906a257e9",
+    "url": "http://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user=ofkxd&limit=1&nowplaying=\"true\"&format=json&api_key=--",
     "method": "GET",
     "timeout": 0,
   };
